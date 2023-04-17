@@ -1,7 +1,9 @@
-### Olá, eu sou Luiz Eduardo Leroy 👋
+### Olá, eu sou **Luiz Eduardo Leroy** 👋
 
+- 🎓 Graduando em **Engenharia de Computação** no CEFET-MG.
 - 🔭 Trabalhando com Front-end
 - 🌱 Estudando React e Typescript
+##
 
 <div align="center"><br>
   <a href="https://github.com/MontMor4">
