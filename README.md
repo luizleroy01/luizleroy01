@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em **Engenharia de Computação** no CEFET-MG.
 - 🔭 Trabalhando com Front-end
-- 🌱 Estudando React e Typescript
+- 🌱 Estudando React,Typescript e Next.js
 ##
 
 <div align="center"><br>
