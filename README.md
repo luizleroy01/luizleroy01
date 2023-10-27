@@ -1,8 +1,8 @@
 ### Olá, eu sou **Luiz Eduardo Leroy** 👋
 
 - 🎓 Graduando em **Engenharia de Computação** no CEFET-MG.
-- 🔭 Trabalhando com Front-end
-- 🌱 Estudando React e Python
+- 🔭 Trabalhando no desenvolvimento full-stack
+- 🌱 Estudo focado no desenvolvimento full-stack com JavaScript/React para front-end e Java/Spring-boot para o Backend
 ##
 
 <div align="center"><br>
