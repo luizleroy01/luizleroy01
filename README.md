@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em **Engenharia de Computação** no CEFET-MG.
 - 🔭 Trabalhando no desenvolvimento full-stack
-- 🌱 Estudo focado no desenvolvimento full-stack com JavaScript/React para front-end e Java/Spring-boot para o Backend
+- 🌱 Estudo focado em Javascript e fundamentos da segurança da informação
 ##
 
 <div align="center"><br>
