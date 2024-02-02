@@ -1,8 +1,8 @@
 ### Olá, eu sou **Luiz Eduardo Leroy** 👋
 
 - 🎓 Graduando em **Engenharia de Computação** no CEFET-MG.
-- 🔭 Trabalhando no desenvolvimento full-stack
-- 🌱 Estudo focado em Javascript e fundamentos da segurança da informação
+- 🔭 Trabalhando no desenvolvimento full-stack utilizando as tecnologias JavaScript,PHP e VueJs
+- 🌱 Estudo focado em Javascript e PHP
 ##
 
 <div align="center"><br>
@@ -13,14 +13,11 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
 <br>
 <div> 
