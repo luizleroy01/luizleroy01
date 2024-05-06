@@ -1,14 +1,14 @@
 ### Olá, eu sou **Luiz Eduardo Leroy** 👋
 
 - 🎓 Graduando em **Engenharia de Computação** no CEFET-MG.
-- 🔭 Trabalhando no desenvolvimento full-stack utilizando as tecnologias JavaScript,PHP e VueJs
-- 🌱 Estudo focado em Javascript e PHP
+- 🔭 Trabalhando no desenvolvimento full-stack utilizando as tecnologias JavaScript, Typescript e Java
+- 🌱 Estudo voltado para algoritmos e aplicação deles para resolução de problemas, desenvolvimento de soluções e Python
 ##
 
 <div align="center"><br>
   <a href="https://github.com/luizleroy01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizleroy01&show_icons=true&theme=midnight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizleroy01&layout=compact&langs_count=10&theme=midnight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizleroy01&layout=compact&langs_count=8&theme=midnight"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
